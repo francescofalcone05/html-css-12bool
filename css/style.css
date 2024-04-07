@@ -1,0 +1,20 @@
+
+.box{
+    background-color: rgb(86, 86, 250);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    border: 1px solid white;
+
+}
+
+
+.box-g{
+    background-color: rgb(42, 199, 42);
+    border: solid 1px black;
+    padding: 0.5rem;
+}
+
+#off-title{
+    margin-top: 2rem;
+}
